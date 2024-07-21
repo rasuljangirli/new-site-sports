@@ -10,7 +10,6 @@
 #main-nav img {
     justify-self: center;
 }
-
 #main-articles .articles-container {
     grid-template-columns: repeat(2,1fr);
 }
